@@ -1,0 +1,11 @@
+{
+  "records": [
+    {
+      "group": "分类A",
+      "videoId": "video-001",
+      "sourceUrl": "https://example.com/source-video",
+      "title": "示例标题",
+      "audioPath": "./input/audio/video-001.mp3"
+    }
+  ]
+}

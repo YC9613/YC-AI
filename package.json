@@ -1,0 +1,16 @@
+{
+  "name": "douyin-link-rewriter",
+  "version": "1.0.0",
+  "private": false,
+  "description": "YC/AI Douyin copy extraction and Doubao web rewrite module.",
+  "type": "module",
+  "packageManager": "npm@11.6.2",
+  "scripts": {
+    "rewrite": "node scripts/doubao_rewrite.mjs",
+    "login": "node scripts/doubao_rewrite.mjs --login-only",
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "1.62.1"
+  }
+}

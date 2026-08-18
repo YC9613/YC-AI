@@ -132,5 +132,6 @@ npm.cmd run rewrite -- `
 - 每个分类一个 Markdown 汇总文件
 - 需要时生成单条改写上下文文件
 - 需要时生成豆包改写结果 JSON 文件
-- > ⚠️ 本工具仅用于个人内容创作的效率辅助，请遵守各平台（抖音、豆包等）的服务条款，不得用于批量搬运、抄袭或违反平台规则的行为。
+
+> ⚠️ 本工具仅用于个人内容创作的效率辅助，请遵守各平台（抖音、豆包等）的服务条款，不得用于批量搬运、抄袭或违反平台规则的行为。
 > ⚠️ This tool is intended for efficiency assistance in personal content creation only. Please comply with the terms of service of respective platforms (Douyin, Doubao, etc.). Do not use for bulk reposting, plagiarism, or any platform-policy-violating activities.
